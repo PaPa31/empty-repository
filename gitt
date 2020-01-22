@@ -1,1 +1,4 @@
 Useful Git's commands:
+
+	export GIT_EDITOR=vi
+	git show

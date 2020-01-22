@@ -1,1 +1,2 @@
 Comands:
+	ps aux | grep vi	Find all processes with vi in name
