@@ -1,4 +1,5 @@
-Useful Git's commands:
+Useful Git commands:
 
-	export GIT_EDITOR=vi
-	git show
+git show	More detail about last commit
+git show 9da58	More detail about commit with a number
+git show-branch --more=10  One-line summaries for current branch
