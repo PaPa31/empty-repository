@@ -1,8 +1,6 @@
 Useful GIT commands: 
 
-Little files with text describing Git and bash commands.
-Using is simple.
-Download and run it with only command:
+Little hint files with text describing Git and bash commands. Using is simple. Download and run any file with only command:
 
 	$ cat useful-file
 
