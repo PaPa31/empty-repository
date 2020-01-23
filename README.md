@@ -1,14 +1,18 @@
-Useful GIT commands: 
+Useful GIT commands.
 
-Little hint files with text describing Git and bash commands. Using is simple. Download and run any file with only command:
+Little hint files with text describing Git and bash commands.
 
-	$ cat useful-file
+Download repo as .zip (or clone if you want to contribute)
+Copypast this in shell and run:
+
+	echo "alias giii='cat ~/empty-repository/giii'">>~/.bashrc && echo "alias gitt='cat ~/empty-repository/gitt'">>~/.bashrc && echo "alias comm='cat && ~/empty-repository/comm'">>~/.bashrc && echo "alias conf='cat ~/empty-repository/conf'">>~/.bashrc && echo "alias alia='cat ~/empty-repository/alia'">>~/.bashrc && echo "alias inst='cat ~/empty-repository/inst'">>~/.bashrc && echo "alias clea='cat ~/empty-repository/clea'">>~/.bashrc
 
 Useful-files:
 
-	git-com		The most commonly used git commands
+	giii		The most commonly used git commands
 	gitt		Useful git commands
 	comm		Useful bash commands
-	config		Configuration commands
-	ali		Aliases commands
-	insta		Installed apps
+	conf		Configuration commands
+	alia		Aliases commands
+	inst		Installed apps (just to remember what you install)
+	clea		Cleaning system command
