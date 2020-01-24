@@ -16,3 +16,4 @@ Useful-files:
 	alia		Aliases commands
 	inst		Installed apps (just to remember what you install)
 	clea		Cleaning system command
+# four-letters
